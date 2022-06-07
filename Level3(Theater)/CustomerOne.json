@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[["^...","\n",{"->":"start"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"start":["^Good afternoon..","\n",{"->":"second"},{"#f":1}],"second":["^I would like one ticket to the Haunted House movie.","\n",{"->":"third"},{"#f":1}],"third":["^Also, I would like a large popcorn and a large Fizzy Water.","\n","end",{"#f":1}],"#f":1}],"listDefs":{}}
